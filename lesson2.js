@@ -17,7 +17,7 @@ else{
     console.log("not equal");
 }
 
-//Logical operator – AND (&&)
+//Logical operator – AND (&&).
 
 const isloggedIn=true;
 const isAdmin=false;
