@@ -7,7 +7,7 @@ else{
     console.log("Minor");
 }
 
-// Equality test (===)
+// Equality test  (===)
 const num=5;
 
 if(num === 5){
